@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foregroundGravity="center_vertical"
+        android:layout_marginTop="300dp"
+        android:src="@drawable/img_logo" />
+    <!--    <TextView-->
+<!--        android:id="@+id/textView5"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:fontFamily="@font/cookierun_bold"-->
+<!--        android:text="Res-Q"-->
+<!--        android:layout_marginTop="300dp"-->
+<!--        android:gravity="center_horizontal"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="78sp" />-->
+</RelativeLayout>
